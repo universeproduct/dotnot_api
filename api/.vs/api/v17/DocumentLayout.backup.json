@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\api\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|solutionrelative:api\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C02C85-B440-4D87-89B2-82BA6411846F}|Entity\\Entity.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\entity\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C02C85-B440-4D87-89B2-82BA6411846F}|Entity\\Entity.csproj|solutionrelative:entity\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C02C85-B440-4D87-89B2-82BA6411846F}|Entity\\Entity.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\entity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C02C85-B440-4D87-89B2-82BA6411846F}|Entity\\Entity.csproj|solutionrelative:entity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\api\\helper\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|solutionrelative:api\\helper\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|c:\\users\\fita-pr-010\\source\\repos\\dotnot_api\\api\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B992317-0785-4EAD-810C-38202A3310B1}|api\\api.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\SecureController.cs",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "api\\Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:28:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\Entity\\UserModel.cs",
+              "RelativeDocumentMoniker": "Entity\\UserModel.cs",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\Entity\\UserModel.cs",
+              "RelativeToolTip": "Entity\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:27:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "api\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:25:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Helper\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "api\\Helper\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Helper\\TokenHelper.cs",
+              "RelativeToolTip": "api\\Helper\\TokenHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:23:45.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T04:21:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\Entity\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Entity\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\Entity\\JwtSettings.cs",
+              "RelativeToolTip": "Entity\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:04:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T03:59:12.446Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\WeatherForecast.cs",
+              "RelativeToolTip": "api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:17:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\FITA-PR-010\\source\\repos\\dotnot_api\\api\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:15:01.126Z",
+              "EditorCaption": ""
             }
           ]
         }

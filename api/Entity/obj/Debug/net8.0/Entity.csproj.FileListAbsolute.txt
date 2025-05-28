@@ -1,0 +1,12 @@
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\FITA-PR-010\source\repos\dotnot_api\api\Entity\obj\Debug\net8.0\ref\Entity.dll

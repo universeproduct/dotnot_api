@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\api",
+    "\\api\\api"
   ],
+  "SelectedNode": "\\api\\api.sln",
   "PreviewInSolutionExplorer": false
 }
