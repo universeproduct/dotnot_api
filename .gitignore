@@ -18,3 +18,13 @@
 /api/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /api/api/bin/Debug/net8.0
 /api/api/obj/Debug/net8.0
+/api/.vs/api
+/api/api/obj/api.csproj.nuget.dgspec.json
+/api/api/obj/api.csproj.nuget.g.props
+/api/api/obj/project.assets.json
+/api/api/obj/project.nuget.cache
+/.vs/dotnot_api/v17/.wsuo
+/.vs/dotnot_api/v17/DocumentLayout.json
+/api/.vs/ProjectEvaluation/api.metadata.v9.bin
+/api/.vs/ProjectEvaluation/api.projects.v9.bin
+/api/.vs/ProjectEvaluation/api.strings.v9.bin
